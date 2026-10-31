@@ -1,0 +1,46 @@
+﻿=================================================================
+ 1. Имя компьютера и версия ОС
+=================================================================
+Computer Name: PC
+OS Name:       Майкрософт Windows 10 Домашняя
+OS Version:    10.0.19045 (Build 19045)
+
+=================================================================
+ 2. Информация о дисках
+=================================================================
+Drive Total_GB Free_GB Free_Percent
+----- -------- ------- ------------
+C:      396,51   55,42 13.98%      
+D:          50   15,99 31.98%      
+E:     1855,47 1799,71 96.99%      
+F:      446,63  353,47 79.14%
+
+=================================================================
+ 3. Топ 5 процессов по потреблению памяти
+=================================================================
+Id ProcessName      RAM_MB
+   -- -----------      ------
+13200 NVIDIA Broadcast 477,73
+ 8688 chrome           394,52
+ 2388 Code             388,33
+ 4492 MsMpEng          308,08
+ 2412 Code             277,04
+
+=================================================================
+ 4. Сервисы: AUTOMATIC, но STOPPED
+=================================================================
+Name                                     DisplayName                                     
+----                                     -----------                                     
+edgeupdate                               Microsoft Edge Update Service (edgeupdate)      
+GoogleUpdaterInternalService123.0.6288.0 GoogleUpdater InternalService 123.0.6288.0 (G...
+GoogleUpdaterInternalService137.0.7129.0 Внутренний сервис Google Updater (GoogleUpdat...
+GoogleUpdaterInternalService157.0.8089.0 Внутренний сервис Google Updater (GoogleUpdat...
+GoogleUpdaterService123.0.6288.0         GoogleUpdater Service 123.0.6288.0 (GoogleUpd...
+GoogleUpdaterService137.0.7129.0         Сервис Google Updater (GoogleUpdaterService13...
+GoogleUpdaterService157.0.8089.0         Сервис Google Updater (GoogleUpdaterService15...
+gupdate                                  Служба Google Update (gupdate)                  
+Intel(R) TPM Provisioning Service        Intel(R) TPM Provisioning Service               
+MapsBroker                               Диспетчер скачанных карт                        
+sppsvc                                   Защита программного обеспечения                 
+WslInstaller                             Подсистема Windows для Linux
+
